@@ -2,7 +2,7 @@
 
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 <p align="center">
-  I am interested in <em> Generative models, Video Understanding, Efficient learning & AI Production </em>.
+  I am interested in <em> Generative models, Video Understanding, Efficient Learning & AI Production </em>.
 </p>
 <br> 
 
@@ -23,7 +23,7 @@
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
-|서울대학교 데이터사이언스대학원 VIP Lab|(Google ExploreCSR Workshop) 인턴|2024|
+|서울대학교 데이터사이언스대학원 VIP Lab| Google ExploreCSR Workshop 멘티|2024|
 |카이스트 김재철AI대학원 AIPR Lab |(KAIRI) 인턴|2023|
 |고려대학교 딥러닝 학회 AIKU 2기|학회원 - 논문 스터디 및 재구현|2023|
 |고려대학교 소프트웨어 개발 학회 DevKor|학회원 - 웹개발|2023|
