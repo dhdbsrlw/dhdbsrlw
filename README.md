@@ -9,10 +9,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhdbsrlw&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhdbsrlw)](https://solved.ac/dhdbsrlw)
-<br> 
 
-<h3 align="center">🛠️ Main Tech Stack 🛠️</h3>
+<h3 align="center">[ Main Tech Stack ]</h3>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -21,7 +19,7 @@
 <br>
 <br>
 
-<h3 align="center"> 🧩 Activity 🧩</h3>
+<h3 align="center">[ Activity ]</h3>
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
