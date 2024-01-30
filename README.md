@@ -2,7 +2,7 @@
 
  <h2 align="center">👩‍💻 About Me 👩‍💻</h2>
 <p align="center">
-  I am interested in <em> Generative models, Video Understanding, Efficient Learning & AI Production </em>.
+  I am interested in <em> Generative models, Efficient Learning & AI Production </em>.
 </p>
 <br> 
 
