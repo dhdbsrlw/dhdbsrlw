@@ -4,7 +4,7 @@
 <p align="center">
   I am interested in <em> Generative models, Efficient Learning & AI Production </em>. 
  <br/><br/>
-  I am focusing on <em>Stable Diffusion</em> now.
+  I am focusing on <em>Diffusion</em> now.
 </p>
 <br> 
 
