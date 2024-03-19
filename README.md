@@ -26,10 +26,10 @@
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
+|고려대학교 인공지능대학원 AGI Lab |인턴|2024-|
 |카이스트 김재철AI대학원 AIPR Lab |(KAIRI) 인턴|2023|
 |고려대학교 딥러닝 학회 AIKU 2기|학회원|2023|
 |고려대학교 소프트웨어 개발 학회 DevKor|학회원|2023|
-|수익형 앱 런칭 동아리 Central MakeUs Challenge 8기|서비스 기획자|2021|
  
  <br>
 </div>
