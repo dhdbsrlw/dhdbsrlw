@@ -26,8 +26,9 @@
 
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
-|고려대학교 인공지능대학원 AGI Lab |[인턴](https://agi.korea.ac.kr/home)|2024|
-|카이스트 김재철AI대학원 AIPR Lab |(KAIRI) 인턴|2023|
+|고려대학교 인공지능대학원 AGI Lab |[학부생 연구인턴](https://agi.korea.ac.kr/home)|2024 <em>(present)</em>|
+|카이스트 김재철AI대학원 MLI Lab |학부생 연구인턴|2024|
+|카이스트 김재철AI대학원 AIPR Lab |학부생 연구인턴|2023|
 |고려대학교 딥러닝 학회 AIKU 2기|학회원|2023|
 |고려대학교 소프트웨어 개발 학회 DevKor|학회원|2023|
  
