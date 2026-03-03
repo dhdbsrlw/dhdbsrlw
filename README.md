@@ -23,7 +23,6 @@
 |Organization|Activity|Year|
 |:---:|:---:|:---:|
 |고려대학교 인공지능대학원 [AGI Lab](https://agi.korea.ac.kr/home) |석사과정 (M.S. Student)|2024 - <em>(present)</em>|
-|카이스트 김재철AI대학원 MLI Lab |학부생 연구인턴 (Intern)|2024|
 |고려대학교 이중전공 지원/합격 정보 서비스: [쿠플라이](https://kupply.devkor.club/)|FE & MLOps Engineer|2023 - <em>(present)</em>|
 |고려대학교 딥러닝 학회 AIKU 2기|OB (수료)|2023|
 |고려대학교 소프트웨어 개발 학회 DevKor|OB (수료)|2023|
